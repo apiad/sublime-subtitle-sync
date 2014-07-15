@@ -1,0 +1,8 @@
+[
+    {"caption": "Subtitle Sync: Increase 1 Second", "command": "subtitle_sync", "args": {"delta": 1}},
+    {"caption": "Subtitle Sync: Decrease 1 Second", "command": "subtitle_sync", "args": {"delta": -1}},
+    {"caption": "Subtitle Sync: Increase 10 Seconds", "command": "subtitle_sync", "args": {"delta": 10}},
+    {"caption": "Subtitle Sync: Decrease 10 Seconds", "command": "subtitle_sync", "args": {"delta": -10}},
+    {"caption": "Subtitle Sync: Increase 1 Minute", "command": "subtitle_sync", "args": {"delta": 60}},
+    {"caption": "Subtitle Sync: Decrease 1 Minute", "command": "subtitle_sync", "args": {"delta": -60}}
+]

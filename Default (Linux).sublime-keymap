@@ -1,0 +1,37 @@
+[{
+    "keys": ["ctrl+]"],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": 1
+    }
+}, {
+    "keys": ["ctrl+["],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": -1
+    }
+}, {
+    "keys": ["ctrl+shift+]"],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": 10
+    }
+}, {
+    "keys": ["ctrl+shift+["],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": -10
+    }
+}, {
+    "keys": ["ctrl+alt+shift+]"],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": 60
+    }
+}, {
+    "keys": ["ctrl+alt+shift+["],
+    "command": "subtitle_sync",
+    "args": {
+        "delta": -60
+    }
+}]
